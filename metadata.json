@@ -1,0 +1,6 @@
+{
+  "name": "Valkyr V12 — WebGPU & WebXR Powertrain Showcase",
+  "description": "Real-time interactive 6.5L 60-degree V12 internal combustion engine showcase and automotive configurator built in Three.js with WebGPU and WebXR support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
